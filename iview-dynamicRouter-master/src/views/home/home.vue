@@ -3,7 +3,7 @@
 </style>
 <template>
     <div class="home-main">
-        
+        进行了修改
     </div>
 </template>
 
@@ -14,6 +14,10 @@ export default {
         return {
             //
         };
+    },
+    mounted(){
+        console.log(123);
+        
     }
 };
 </script>
