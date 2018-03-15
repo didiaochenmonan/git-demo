@@ -4,6 +4,7 @@
 <template>
     <div class="home-main">
         进行了修改
+        <h2>暂时</h2>
     </div>
 </template>
 
