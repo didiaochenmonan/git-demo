@@ -5,7 +5,7 @@
     <div class="home-main">
         进行了修改
         <h2>暂时</h2>
-        <h3>已经</h3>
+        <h3>已</h3>
     </div>
 </template>
 
@@ -19,7 +19,8 @@ export default {
     },
     mounted(){
         console.log(123);
-        console.log('修改');
+
+
         
     }
 };
